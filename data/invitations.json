@@ -259,7 +259,7 @@
     "time": "21:00",
     "location": ["Dzô 35k, 58 Hẻm 112 Đ. 3 Tháng 2, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam"],
     "message": "Sự hiện diện của bạn là món quà tuyệt vời nhất cho ngày đặc biệt này. Hãy đến và cùng tôi tạo nên những kỷ niệm không thể quên!",
-    "image": "",
+    "image": "img/thien-flex.jpg",
     "metaTitle": "Thiệp mời sinh nhật dành cho Thiên",
     "metaDescription": "Thiệp mời sinh nhật được tạo riêng cho Thiên.",
     "sharePath": "index.html?guest=thien"
@@ -280,7 +280,7 @@
     "sharePath": "index.html?guest=thi"
   },
   "khang": {
-    "name": "Thi",
+    "name": "Khang",
     "age": 18,
     "countdownDate": "2025-11-20T21:00:00+07:00",
     "dateISO": "2025-11-20",
@@ -293,6 +293,21 @@
     "metaDescription": "Thiệp mời sinh nhật được tạo riêng cho Khang.",
     "sharePath": "index.html?guest=khang"
   },
+  "thanh-phong": {
+    "name": "Thanh Phong",
+    "age": 18,
+    "countdownDate": "2025-11-20T21:00:00+07:00",
+    "dateISO": "2025-11-20",
+    "dateDisplay": "Thứ Năm, 20 tháng 11, 2025",
+    "time": "21:00",
+    "location": ["Dzô 35k, 58 Hẻm 112 Đ. 3 Tháng 2, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam"],
+    "message": "Sự hiện diện của bạn là món quà tuyệt vời nhất cho ngày đặc biệt này. Hãy đến và cùng tôi tạo nên những kỷ niệm không thể quên!",
+    "image": "../img/thanhphong.png",
+    "metaTitle": "Thiệp mời sinh nhật dành cho Thanh Phong",
+    "metaDescription": "Thiệp mời sinh nhật được tạo riêng cho Thanh Phong.",
+    "sharePath": "index.html?guest=thanh-phong"
+  },
+
 
   "trong-phuc": {
     "name": "Trọng Phúc",
